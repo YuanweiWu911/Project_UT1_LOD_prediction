@@ -1,6 +1,9 @@
 Dear lulu,
 
-directory named developed_lulu is the workspace for you.
+Learn how to use Markdown and git tools.
+We will use python, Markdown and git tools to develop our program.
+
+Directory named developed_lulu is the workspace for you.
 Please save all your codes in the directory named "developed_lulu".
 
 1stly, you need clone developed_lulu branch from github
@@ -19,3 +22,4 @@ git add .                           #add all your development to git branch
 git commit -m "lulu's updates 2025-month-day"  #commit your branch 
 git push origin developed_lulu      #push your updated branch to git-hub
 ```
+

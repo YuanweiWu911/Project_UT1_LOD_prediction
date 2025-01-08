@@ -7,6 +7,8 @@ Please save all your codes in the directory named "developed_lulu".
 
 ```git
 git clone https://github.com/YuanweiWu911/Project_UT1_LOD_prediction.git
+cd Project_UT1_LOD_prediction
+git checkout developed_lulu
 ```
 
 after that, every day, you need used bellow tasks
